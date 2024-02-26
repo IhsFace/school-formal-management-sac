@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\bin\Debug\net8.0-windows\school-formal-management-sac.exe
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\bin\Debug\net8.0-windows\school-formal-management-sac.deps.json
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\bin\Debug\net8.0-windows\school-formal-management-sac.runtimeconfig.json
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\bin\Debug\net8.0-windows\school-formal-management-sac.dll
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\bin\Debug\net8.0-windows\school-formal-management-sac.pdb
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school_formal_management_sac.Form1.resources
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.dll
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\refint\school-formal-management-sac.dll
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.pdb
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\school-formal-management-sac.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\school-formal-management-sac\school-formal-management-sac\school-formal-management-sac\obj\Debug\net8.0-windows\ref\school-formal-management-sac.dll
